@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.chuckerteam.chucker:library:3.5.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/729fb073c48298e6f51f874ab292818e/transformed/library-3.5.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/729fb073c48298e6f51f874ab292818e/transformed/library-3.5.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/729fb073c48298e6f51f874ab292818e/transformed/library-3.5.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.accompanist:accompanist-pager-indicators:0.24.3-alpha@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/59c6b31a9fff12f54041aafcfd916cad/transformed/accompanist-pager-indicators-0.24.3-alpha/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/59c6b31a9fff12f54041aafcfd916cad/transformed/accompanist-pager-indicators-0.24.3-alpha/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
